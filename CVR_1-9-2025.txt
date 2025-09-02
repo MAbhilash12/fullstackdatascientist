@@ -134,4 +134,5 @@ First 100 units → ₹5 per unit
 Next 100 units (101–200) → ₹7 per unit
 
 Above 200 units → ₹10 per unit
+
 Write a program that takes units consumed as input and prints the bill amount.
