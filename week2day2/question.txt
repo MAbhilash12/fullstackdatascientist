@@ -1,0 +1,29 @@
+1. Problem: Given a text file, count the total number of words.
+2. Problem: Write a program to check if a password is strong (at least 8 characters, contains uppercase, lowercase, digit, and special char).
+//3. Problem: Implement a calculator with +, -, *, / operations.
+4. Problem: Given a list of student names, find duplicates.
+//5. Problem: Convert between Celsius and Fahrenheit.
+//6. Problem: Find the largest number from a list of integers.
+//7. Problem: Calculate Simple Interest.
+8. Problem: Given a dictionary of student names and attendance %, find defaulters (<75%).
+//9. Problem: Input: 1234 → Output: 10
+//10. Problem: Write a function to check if a number is prime.
+//11. Problem: Find smallest and largest numbers from a list.
+12. Problem: Given items with prices in a dictionary, calculate total bill.
+//13. Problem: Input 3 numbers, print the largest.
+14. Problem: Count how many times each character appears in a string.
+//15. Problem: Calculate electricity bill:
+First 100 units → ₹5/unit
+Next 100 units → ₹7/unit
+Above 200 units → ₹10/unit
+16. Problem: Sort a list of names in ascending order.
+//17. Problem: Input: 1234 → Output: 4321
+//18. Problem: Given a list, count positive, negative, and zero numbers.
+//19. Problem: User has 3 attempts to enter correct PIN.
+//20. Problem: Write a program that asks for two numbers and divides them. Handle division by zero.
+//21. Problem: Write a program that handles both ValueError (invalid input) and ZeroDivisionError.
+//22. Problem: If withdrawal amount is greater than balance, raise an exception.
+//23. Problem: Calculate total price, handle invalid input, and always show "Bill processing finished".
+• First 100 units → ₹5/unit
+• Next 100 units → ₹7/unit
+• Above 200 units → ₹10/un
