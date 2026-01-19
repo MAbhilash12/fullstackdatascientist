@@ -1,0 +1,51 @@
+5/1/2026
+
+Support Vector Machines
+
+1.Introduction to svm
+
+2.Soft margin and hard margin
+
+3.Svm Math Intuition
+
+4.Cost Function 
+
+5.Support Vector Regression
+
+6.SVM Kernels
+
+7.SVM kernels implementation
+
+8.Support Vector Classifiers
+
+1.What is Python and why is it popular in Data Science?
+2.Difference between List, Tuple, Set, and Dictionary
+3.What is a Lambda function?
+4.What is map(), filter(), reduce()?
+5.Difference between NumPy array and Python list?
+6.What is Pandas used for?
+7.How do you handle missing values?
+8.Difference between loc and iloc
+9.What is Mean, Median, Mode?
+10.What is Variance and Standard Deviation?
+11.What is Correlation?
+12.What is Machine Learning?
+13.Types of Machine Learning
+14.Difference between Regression and Classification
+15.What is Linear Regression?
+16.What are assumptions of Linear Regression?
+17.What is R² score?
+18.What is Logistic Regression?
+19.Why sigmoid function is used?
+20.Difference between Linear and Logistic Regression
+21.What is Margin in SVM?
+22.What are Support Vectors?
+23.What is Kernel Trick?
+24.Types of Kernels
+25.What is C parameter in SVM?
+26.What is Train-Test Split?
+27.Difference between Batch and Streaming
+28.What is ETL?
+29.Difference between Bias and Variance?
+
+
